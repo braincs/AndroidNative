@@ -1,1 +1,1 @@
-include ':app', ':nativedlopen', ':nativesamplelib'
+include ':app', ':nativedlopen', ':nativesamplelib', ':nativebytes'
